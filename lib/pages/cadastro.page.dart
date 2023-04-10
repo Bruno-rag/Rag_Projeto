@@ -22,7 +22,7 @@ class _CadastroPageState extends State<CadastroPage> {
           ),
           children: [
             Text(
-              "Cadastro",
+              "Cadastro 02",
               textAlign: TextAlign.center,
               style: TextStyle(
                 color: Colors.black87,
