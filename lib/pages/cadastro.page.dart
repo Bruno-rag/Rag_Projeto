@@ -32,7 +32,7 @@ class _CadastroPageState extends State<CadastroPage> {
             ),
             TextFormField(
               decoration: InputDecoration(
-                labelText: "Nome teste",
+                labelText: "Nome 02",
                 labelStyle: TextStyle(
                   color: Colors.black87,
                   fontWeight: FontWeight.w900,
